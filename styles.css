@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5dc; /* Beige background */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: #8B4513; /* Darker tone for contrast */
+}
+
+p {
+    font-size: 24px;
+    color: #A0522D; /* Slightly lighter brown */
+}
+
+.launch-date {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #D2B48C; /* Tan color for details */
+}
