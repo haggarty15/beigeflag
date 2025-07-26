@@ -43,3 +43,7 @@ button {
     color: #4b2e19;
     max-width: 400px;
 }
+
+.flag-icon {
+    width: 80px;
+}
