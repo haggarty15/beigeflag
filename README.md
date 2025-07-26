@@ -1,6 +1,7 @@
 # Beige Flag Generator
 
-This simple website displays a random "beige flag" whenever the user presses the button. A beige flag icon adds a bit of flair to the generator.
+
+This simple website displays a random "beige flag" whenever the user presses the button.
 
 ## Usage
 
